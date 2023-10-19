@@ -2,7 +2,7 @@
 
 Submitted by: **Seyi Akinwale**
 
-Time spent: **2.5** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Using Pet Api to get pet images
 
@@ -14,7 +14,7 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] Make an API call to an API of your choice using AsyncHTTPClient
+- [X] Make an API call to an API of your choice using AsyncHTTPClient
 - [ ] Display at least three (3) pieces of data for each API entry retrieved
 - [ ] A working Button requests a new API entry and updates the data displayed
 
@@ -22,7 +22,7 @@ The following REQUIRED features are completed:
 
 ## API Choice
 
-My chosen API for this project is **enter here**.
+My chosen API for this project is **Dog API**.
 
 ## Video Demo
 
@@ -38,12 +38,10 @@ GIF created with **your chosen GIF tool**
 - [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+In order to resolve 300s timeout it was necessary to wipe data in Device Manager.
+Went to View > Tool Windows > Device Manager to open Device Manager
 
 ## License
-
-Copyright **2023** **Seyi Akinwale**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
